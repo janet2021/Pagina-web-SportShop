@@ -1,0 +1,172 @@
+#titulo{
+    background-color: red;
+    color: black;
+    border: 2px solid black;
+    margin-left: 20px
+}
+#subtitulo{
+    background-color: blue;
+    color: pink;
+    border:3px solid black;
+    margin-left: auto;
+}
+#lista{
+    background-color: paleturquoise;
+color:navy;
+border:3px solid black;
+margin-left: 20px
+}
+#titulo2{
+background-color:coral;
+color: black
+border:3px solid black;
+margin-left: 20px
+}
+#titulo3{
+background-color: magenta;
+color:black;
+border: 4px solid red;
+margin-bottom: 20px
+}
+#titulo3{
+background-color: :gray;
+color:black;
+border:5px solid:tomato;
+margin-right: auto;
+}
+#subtitulo2{
+background-color: linen;
+color: black
+border:8px solid: tomato;
+margin-left: 20px
+}
+#parrafo{
+background-color: greenyellow;
+color: black;
+border: 2px solid black;
+margin-right: : 20px
+}
+    #parrafo{
+        text-align: center
+    }
+    #contacto{
+        background-color: blue;
+        color:white;
+        border: 2px solid: white;
+        margin-left: 20px;
+    }
+#parrafo{
+background-color:greenyellow;
+color:blue ;
+border:10px solid:black;
+margin-top: 20px
+}
+#pagina{
+background color: Red
+color:pink
+border:15px ;
+margin-left: auto;
+}
+    body{
+        margin: 10;
+        padding: 10px;
+        font-size: 15 px;
+        background-color: #EAEA9F;
+        border: 100px;
+        color: blue;
+        text-align: justify;
+    }
+    ul{
+    font-size: 15 px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    }
+    p{
+        font-style:oblique;
+        font-size: 25px;
+        font-weight: bold;
+        color:#3E2723;
+        letter-spacing: auto;
+        line-height: 30px;
+        text-align: justify;
+
+    }
+    H2{
+        font-style: italic;
+        font-size: 30px;
+        font-weight: bolder;
+        color:#C70039;
+        letter-spacing: auto;
+        line-height: 30px;
+        text-align: center;
+}
+h1{
+font-family: "Lucida Console", "Courier New", monospace;
+}
+    #contenedor{
+        margin:2px;
+        border: solid 2px blue;
+    }
+    #cabecera{
+        height:120px;
+        background-color: gray;
+    }
+    #cabecera h1{
+        margin: 0;
+        padding: 25px;
+        font: bold 50px arial, helvetica, sans-serif;
+        color: white
+    }
+    #menu{
+        background-color: #385451;
+        height: 35px
+    }
+    #fondmenu{
+        background-color: brown;
+        width: 1300px;
+        height: 35px;
+    }
+    #fondmenu ul{
+        list-style:none;
+        margin:0;
+        padding:0;
+    }
+#fondmenu ul li a {
+    background-color: greenyellow;
+width: 120px;
+height: 35px;
+margin-left: 3px;
+float: left;
+text-align: 40px;
+color:black;
+text-align: center;
+display: block;
+}
+#footer{
+    clear: left;
+    border-top: 15px solid #369;
+}
+#envoltura{
+    margin: 0 19em 0 19em;
+    padding: 0 1em;
+}
+#sidebar{
+    {
+        float: left;
+        width: 20em;
+        padding: 0 0.5em;
+        margin-left: -14em;
+        position: relative;
+        left: 15em;
+    }
+    #nav{
+        float: left;
+        width: 11em;
+        padding: 0 0.5em;
+        margin-left: -14em;
+        position: relative;
+        right: 13em;
+    }
+    #main{
+        float: left;
+        width: 100%;
+    }
